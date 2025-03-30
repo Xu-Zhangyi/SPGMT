@@ -1,4 +1,4 @@
-# SPGMT
+# Structure and Position-aware Graph Modeling for Trajectory Similarity Computation over Road Networks
 
 Source codes for Structure and Position-aware Graph Modeling for Trajectory Similarity Computation over Road Networks
 
