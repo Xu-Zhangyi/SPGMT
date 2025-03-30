@@ -1,6 +1,6 @@
 # SPGMT
 
-Source codes for SPGMT
+Source codes for Structure and Position-aware Graph Modeling for Trajectory Similarity Computation over Road Networks
 
 ## Running Procedures:
 
