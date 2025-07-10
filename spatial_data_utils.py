@@ -52,7 +52,7 @@ def sample_region_node(dataset):
             tmp = point_dis[:112557, item]
             ids = np.where(tmp != -1)
             for idx in ids:
-                tmp[idx] = np.exp(-(tmp[idx]/100.0))
+                tmp[idx] = np.exp(-(tmp[idx]/10000.0))
             all_distance_to_node.append(tmp)
 
         all_distance_to_node = np.array(all_distance_to_node).T
